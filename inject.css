@@ -1,0 +1,60 @@
+button.solver,
+input.solver,
+#grades {
+	background-color: rgb(82, 74, 137);
+	color: #fff;
+	border-radius: 4px;
+	border: 0;
+	font-size: 16px;
+	font-family: Arial;
+	text-align: center;
+	margin: 10px;
+}
+button.solver {
+	margin: 0;
+	padding: 10px 24px;
+	width: auto;
+	cursor: pointer;
+}
+button.solver:hover {
+	opacity: 0.8;
+	box-shadow: 0px 2px 1px -1px rgb(82 74 138 / 20%),
+		0px 1px 1px 0px rgb(82 74 138 / 14%),
+		0px 1px 3px 0px rgb(82 74 138 / 12%);
+}
+button.solver:active {
+	opacity: 0.6;
+}
+
+input.solver {
+	width: 10%;
+	-moz-appearance: textfield;
+}
+input.solver:focus {
+	outline: none;
+}
+input.solver::-webkit-outer-spin-button,
+input.solver::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+p.solver {
+	margin: 10px;
+	font-family: Arial;
+	font-size: 20px;
+}
+h3.solver {
+	font-family: "Comic Sans MS";
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	width: 12rem;
+}
+#container > * {
+	width: 100%;
+	margin: 2px;
+}

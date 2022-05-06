@@ -17,10 +17,10 @@ This is a simple web extension which allows you to quickly fill out the google q
 ## Usage
 
 1. Open the annoying google quiz form.
-2. Click the extension icon.
+2. Scroll down to the bottom of the page.
 3. Click the "Fill form" button.
 4. Click "Done" on the form.
 5. Click "Results" on the form.
-6. Click the extension icon again.
+6. Scroll down to the bottom again.
 7. Now you can choose the grade you want to get.
-8. Optionally, shuffle the questions by clicking "Shuffle questions" button.
+8. Click "Set grade" and you're done!
